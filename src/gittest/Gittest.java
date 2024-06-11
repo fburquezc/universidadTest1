@@ -16,8 +16,8 @@ public class Gittest {
     public static void main(String[] args) {
         System.out.println("Hola mundo!!!");
         System.out.println("Test GIT");
-        
-        System.out.println("Esto es el segundo cambio!!!");
+        /****PRUEBA*****/
+
     }
     
 }
